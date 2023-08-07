@@ -70,7 +70,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    transition: .5s ease-in-out;
+    transition: .5s ease-in-out; 
 }
 .logo img{
     height: 6rem;
@@ -78,7 +78,9 @@ nav{
 }
 .logo{
     font-size:1.6rem;
-    font-weight: bold;
+    font-weight: bold; 
+    display: flex;
+    align-items: center;
 
 }
 .navbar{
