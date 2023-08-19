@@ -37,6 +37,7 @@ body{
     color: white;
     overflow-x: hidden;
     position: relative;
+    background-color: whitesmoke;
 
 }
 .header-container{
@@ -176,7 +177,7 @@ margin-top: 3px ;
     width: 60%;
 }
 .box2 p{
-    font-size: clamp(.9rem, 5vw, 1rem);
+    font-size: clamp(.9rem, 5vw, 1.3rem);
     line-height: 2rem; 
 }
 .box-input{
@@ -205,7 +206,7 @@ margin-top: 3px ;
     padding-top:15%;
 }
 .box3 p{
-    font-size: clamp(.5rem, 5vw, 1rem);
+    font-size: clamp(.7rem, 5vw, 1.3rem);
 }
 .box3 p span{
     color:Rgb(249,147,0); 
